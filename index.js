@@ -1,3 +1,5 @@
+'use strict';
+
 const store = new WeakMap();
 
 const Task = class extends Promise {
