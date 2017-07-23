@@ -1,11 +1,15 @@
 {
   "name": "promise-task",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic extension to Promise that allows external resolving and rejecting.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Theriot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MichaelTheriot/promise-task.git"
+  },
   "license": "WTFPL"
 }
