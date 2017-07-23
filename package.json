@@ -1,0 +1,11 @@
+{
+  "name": "promise-task",
+  "version": "1.0.0",
+  "description": "A basic extension to Promise that allows external resolving and rejecting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Theriot",
+  "license": "WTFPL"
+}
